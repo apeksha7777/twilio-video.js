@@ -1,5 +1,13 @@
 For 1.x changes, go [here](https://github.com/twilio/twilio-video.js/blob/support-1.x/CHANGELOG.md).
 
+2.2.0 (in progress)
+===================
+
+Bug Fixes
+---------
+
+- Fixed a bug where twilio-video.js failed to load due to a TypeError on Chrome iOS. (JSDK-2670)
+
 2.1.0 (February 4, 2020)
 ========================
 
